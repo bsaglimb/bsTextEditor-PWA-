@@ -1,3 +1,6 @@
+## Description
+J.A.T.E (Just Another Text Editor) is a Progressive Web Application (PWA) that runs in the browser, offline and can be installed locally to your machine. This application features a number of data persistence techniques, insuring the application runs regardless of browser supported function. J.A.T.E uses an IndexedDB database and the idb package. The integrated service worker and Cache API's ensure that the application will remain fully functional even without and active internet connection. This application allows the user to access visited pages even if the application is offline.
+
 ## User Story
 * AS A developer
 * I WANT to create notes or code snippets with or without an internet connection
