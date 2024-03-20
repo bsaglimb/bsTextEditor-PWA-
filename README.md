@@ -34,17 +34,6 @@ J.A.T.E (Just Another Text Editor) is a Progressive Web Application (PWA) that r
 * THEN I should have proper build scripts for a webpack application
 
 
-## Installation
-* This text editor require a number of methods and store data to an IndexedDB database to be builded up.
-* This application will require the installation of Node.js and various npm packages.
-
-This application will use the following npm packages:-
-
-  * npm install express (express.js)
-  * npm install --save-dev webpack (Webpack)
-  * npm install webpack-dev-server --save-dev (webpack-dev-server)
-  * npm install --save-dev webpack-pwa-manifest (WebpackPwaManifest)
-  * npm install babel (Babel)
-  * npm install --save-dev css-loader (CSS-loader)
-  * npm install concurrently --save (run multiple commands concurrently.) (Concurrently)
-  * npm npm install idb (IndexedDB)
+## Links
+* https://github.com/bsaglimb/bsTextEditor-PWA-
+* https://bstexteditor-pwa.onrender.com
